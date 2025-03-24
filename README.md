@@ -1,3 +1,5 @@
+_* This is a fork of [wire-pod](https://github.com/kercre123/wire-pod) from [kercre123](https://github.com/kercre123)_
+
 # wire-pod
 
 `wire-pod` is fully-featured server software for the Anki (now Digital Dream Labs) [Vector](https://web.archive.org/web/20190417120536if_/https://www.anki.com/en-us/vector) robot. It was created thanks to Digital Dream Labs' [open-sourced code](https://github.com/digital-dream-labs/chipper).
@@ -12,14 +14,9 @@ The installation guide exists on the wiki: [Installation guide](https://github.c
 
 Check out the [wiki](https://github.com/kercre123/wire-pod/wiki) for more information on what wire-pod is, a guide on how to install wire-pod, troubleshooting, how to develop for it, and for some generally helpful tips.
 
-## Donate
-
-If you want to :P
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/kercre123)
-
 ## Credits
 
+- [kercre123](https://github.com/kercre123) for creating wire-pod
 - [Digital Dream Labs](https://github.com/digital-dream-labs) for open sourcing chipper and creating escape pod (which made this possible)
 - [bliteknight](https://github.com/bliteknight) for making wire-pod more accessible with his easy-to-use pre-setup Linux boxes
 - [dietb](https://github.com/dietb) for rewriting chipper and giving tips
